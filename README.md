@@ -16,8 +16,4 @@ Through this challenge, I was able to learn how to use javascript and node JS to
 - after all prompts are filled in, a README file will be generated named 'README_OUTPUT.MD'. this file will contain a skeleton of a readme that you can edit further to suit your needs
 
 ### Link to Video Walkthrough
-[Click me!]()
-
-
-### Screenshot of Finished Application
-![Screenshot of Website]()
+[Click me!](https://drive.google.com/file/d/15qGxvCo8NDbTCw0QrtB_J5FAEqV0OLVQ/view?usp=sharing)
