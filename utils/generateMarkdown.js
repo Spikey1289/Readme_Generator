@@ -134,7 +134,7 @@ function generateMarkdown(data) {
   markdown += `### Questions\n\n`
 
   //adds contact information
-  markdown += `- My Github: [`+ data.github + `](https://github.com/` + data.github + `) \n `;
+  markdown += `- My Github: [`+ data.github + `](https://github.com/` + data.github + `) \n`;
   markdown += `- My Email Address: [` + data.email + `](mailto:`+ data.email +`)\n\n`;
 
   //adds license information if any was selected
